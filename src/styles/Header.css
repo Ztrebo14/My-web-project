@@ -1,0 +1,10 @@
+
+li {
+    display: inline-block;
+    
+}
+ul {
+    padding: 10px;
+    background-image: linear-gradient(rgb(110, 167, 224), rgb(39, 41, 75));
+    list-style-type: none;
+}

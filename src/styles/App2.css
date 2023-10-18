@@ -1,0 +1,10 @@
+* {
+    margin: 0 auto;
+    background-color: grey;
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 10rem;
+}
